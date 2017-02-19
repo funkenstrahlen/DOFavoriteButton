@@ -10,7 +10,7 @@ It could be just right for favorite buttons!
 
 ## Requirements
 * iOS 7.0+
-* Swift 1.2
+* Swift 3
 
 ## Installation
 #### Carthage
